@@ -57,11 +57,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sarthak-37/sarthak-37/output/snake.svg" alt="Snake animation" />
-
-###
-
-
 <!-- 
 - 👋 Hi, I’m @sarthak737
 - 👀 I’m interested in ...
