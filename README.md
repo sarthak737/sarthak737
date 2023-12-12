@@ -59,6 +59,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sarthak737/sarthak737/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/sarthak737/sarthak737/output/snake.svg" alt="Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg" />
 
 ###
