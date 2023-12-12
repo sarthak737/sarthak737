@@ -32,15 +32,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak737&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="140" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="210" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
-</div>
+<h2 align="left">Socials</h2>
 
 ###
 
@@ -61,8 +53,14 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak737&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="140" alt="languages graph"  />
+</div>
 
-<img src="https://raw.githubusercontent.com/sarthak737/sarthak737/output/snake.svg" alt="Snake animation" />
+###
+
+<div align="center">
+  <img height="210" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
+</div>
 
 ###
