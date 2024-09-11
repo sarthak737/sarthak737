@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning JavaScript<br>🎯 Goals: Full Stack Web Developer<br>🎲 Fun fact: I use tabs over spaces</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Next.js and TypeScript<br>🎯 Goals: Full Stack Developer<br>🎲 Fun fact: I use tabs over spaces</p>
 
 ###
 
