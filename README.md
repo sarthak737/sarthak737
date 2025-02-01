@@ -1,4 +1,4 @@
-<img src="https://i.redd.it/bpxxqqvps4h91.gif">
+<img src="https://i.redd.it/bpxxqqvps4h91.gif" width="400px" alt="gif" align="center">
 
 ###
 
