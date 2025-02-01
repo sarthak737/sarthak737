@@ -1,3 +1,7 @@
+<img src="https://i.redd.it/bpxxqqvps4h91.gif">
+
+###
+
 <h2 align="center">Hi 👋! My name is Sarthak Gupta and I'm a MERN Stack Developer from India</h2>
 
 ###
