@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://i.redd.it/bpxxqqvps4h91.gif" style="width:100%; height:auto; max-width:800px; aspect-ratio:16/9; object-fit:cover;">
-</div>
-
-
 ###
 
 <h2 align="center">Hi 👋! My name is Sarthak Gupta and I'm a MERN Stack Developer from India</h2>
@@ -82,6 +77,10 @@
 ###
 
 <br clear="both">
+
+<div align="center">
+  <img src="https://i.redd.it/bpxxqqvps4h91.gif" style="width:100%; height:auto; max-width:800px; aspect-ratio:16/9; object-fit:cover;">
+</div>
 
 
 ###
