@@ -1,4 +1,7 @@
-<img src="https://i.redd.it/bpxxqqvps4h91.gif" width="400px" alt="gif" align="center">
+<div align="center">
+  <img src="https://i.redd.it/bpxxqqvps4h91.gif" style="width:100%; height:auto; max-width:800px; aspect-ratio:16/9; object-fit:cover;">
+</div>
+
 
 ###
 
